@@ -68,17 +68,17 @@ I am a Software Engineering undergraduate with a passion for creating elegant di
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/SusithD/Blvck-Paris">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SusithD&repo=Blvck-Paris&theme=tokyonight" alt="Blvck Paris" />
+<a href="https://github.com/SusithD/Data-structures-Game-Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SusithD&repo=Data-structures-Game-Portal&theme=tokyonight" alt="Data Structures Game Portal" />
   </a>
-  <a href="https://github.com/SusithD/Arduino-Robot-Guide-Rover">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SusithD&repo=Arduino-Robot-Guide-Rover&theme=tokyonight" alt="Arduino Guide Rover" />
+  <a href="https://github.com/SusithD/traveling_salesman_game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SusithD&repo=traveling_salesman_game&theme=tokyonight" alt="Traveling Salesman Game" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/SusithD/Travel-Planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SusithD&repo=Travel-Planner&theme=tokyonight" alt="Travel Planner" />
+<a href="https://github.com/SusithD/ToDo-List-Web-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SusithD&repo=ToDo-List-Web-Application&theme=tokyonight" alt="ToDo List Web Application" />
   </a>
 </div>
 
