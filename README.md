@@ -10,3 +10,5 @@
 <div align="center">
   <img src="https://github.com/SusithD/SusithD/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
+
+[![SusithD Nuxter profile](https://nuxters.nuxt.com/card/SusithD/og.png)](https://nuxters.nuxt.com/SusithD)
